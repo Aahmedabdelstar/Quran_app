@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name_arabic": "الجزء الاول",
+    "name_simple": "juz1",
+    "pages": [
+      1,
+      21
+    ]
+  },
+
+  {
+    "id": 2,
+    "name_arabic": "الجزء الثاني",
+    "name_simple": "juz2",
+    "pages": [
+      22,
+      41
+    ]
+  },
+
+  {
+    "id": 3,
+    "name_arabic": "الجزء الثالث",
+    "name_simple": "juz3",
+    "pages": [
+      42,
+      61
+    ]
+  },
+
+  {
+    "id": 4,
+    "name_arabic": "الجزء الرابع",
+    "name_simple": "juz4",
+    "pages": [
+      62,
+      81
+    ]
+  },
+
+  {
+    "id": 5,
+    "name_arabic": "الجزء الخامس",
+    "name_simple": "juz5",
+    "pages": [
+      82,
+      101
+    ]
+  },
+
+  {
+    "id": 6,
+    "name_arabic": "الجزء السادس",
+    "name_simple": "juz6",
+    "pages": [
+      102,
+      121
+    ]
+  },
+
+  {
+    "id": 7,
+    "name_arabic": "الجزء السابع",
+    "name_simple": "juz7",
+    "pages": [
+      122,
+      141
+    ]
+  },
+
+  {
+    "id": 8,
+    "name_arabic": "الجزء الثامن",
+    "name_simple": "juz8",
+    "pages": [
+      142,
+      161
+    ]
+  },
+
+  {
+    "id": 9,
+    "name_arabic": "الجزء التاسع",
+    "name_simple": "juz9",
+    "pages": [
+      162,
+      181
+    ]
+  },
+
+  {
+    "id": 10,
+    "name_arabic": "الجزء العاشر",
+    "name_simple": "juz10",
+    "pages": [
+      182,
+      201
+    ]
+  },
+
+  {
+    "id": 11,
+    "name_arabic": "الجزء الحادي عشر",
+    "name_simple": "juz11",
+    "pages": [
+      202,
+      221
+    ]
+  },
+
+  {
+    "id": 12,
+    "name_arabic": "الجزء الثاني عشر",
+    "name_simple": "juz12",
+    "pages": [
+      222,
+      241
+    ]
+  },
+
+  {
+    "id": 13,
+    "name_arabic": "الجزء الثالث عشر",
+    "name_simple": "juz13",
+    "pages": [
+      242,
+      261
+    ]
+  },
+
+  {
+    "id": 14,
+    "name_arabic": "الجزء الرابع عشر",
+    "name_simple": "juz14",
+    "pages": [
+      262,
+      281
+    ]
+  },
+
+  {
+    "id": 15,
+    "name_arabic": "الجزء الخامس عشر",
+    "name_simple": "juz15",
+    "pages": [
+      282,
+      301
+    ]
+  },
+
+  {
+    "id": 16,
+    "name_arabic": "الجزء السادس عشر",
+    "name_simple": "juz16",
+    "pages": [
+      302,
+      321
+    ]
+  },
+
+  {
+    "id": 17,
+    "name_arabic": "الجزء السابع عشر",
+    "name_simple": "juz17",
+    "pages": [
+      322,
+      341
+    ]
+  },
+
+  {
+    "id": 18,
+    "name_arabic": "الجزء الثامن عشر",
+    "name_simple": "juz18",
+    "pages": [
+      342,
+      361
+    ]
+  },
+
+  {
+    "id": 19,
+    "name_arabic": "الجزء التاسع عشر",
+    "name_simple": "juz19",
+    "pages": [
+      362,
+      381
+    ]
+  },
+
+  {
+    "id": 20,
+    "name_arabic": "الجزء العشرون",
+    "name_simple": "juz20",
+    "pages": [
+      382,
+      401
+    ]
+  },
+
+  {
+    "id": 21,
+    "name_arabic": "الجزء الحادي و العشرون",
+    "name_simple": "juz21",
+    "pages": [
+      402,
+      421
+    ]
+  },
+
+  {
+    "id": 22,
+    "name_arabic": "الجزء الثاني و العشرون",
+    "name_simple": "juz22",
+    "pages": [
+      422,
+      441
+    ]
+  },
+
+  {
+    "id": 23,
+    "name_arabic": "الجزء الثالث و العشرون",
+    "name_simple": "juz23",
+    "pages": [
+      442,
+      461
+    ]
+  },
+
+  {
+    "id": 24,
+    "name_arabic": "الجزء الرابع و العشرون",
+    "name_simple": "juz24",
+    "pages": [
+      462,
+      481
+    ]
+  },
+
+  {
+    "id": 25,
+    "name_arabic": "الجزء الخامس و العشرون",
+    "name_simple": "juz25",
+    "pages": [
+      482,
+      501
+    ]
+  },
+
+  {
+    "id": 26,
+    "name_arabic": "الجزء السادس و العشرون",
+    "name_simple": "juz26",
+    "pages": [
+      502,
+      521
+    ]
+  },
+
+  {
+    "id": 27,
+    "name_arabic": "الجزء السابع و العشرون",
+    "name_simple": "juz27",
+    "pages": [
+      522,
+      541
+    ]
+  },
+
+  {
+    "id": 28,
+    "name_arabic": "الجزء الثامن و العشرون",
+    "name_simple": "juz28",
+    "pages": [
+      542,
+      561
+    ]
+  },
+
+  {
+    "id": 29,
+    "name_arabic": "الجزء التاسع و العشون",
+    "name_simple": "juz29",
+    "pages": [
+      562,
+      581
+    ]
+  },
+
+  {
+    "id": 30,
+    "name_arabic": "الجزء الثالثون",
+    "name_simple": "juz30",
+    "pages": [
+      582,
+      604
+    ]
+  }
+
+]
